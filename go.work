@@ -1,0 +1,9 @@
+go 1.18
+
+use (
+	./main
+	./transform
+	./udp_info
+	logger
+	run_web
+)
