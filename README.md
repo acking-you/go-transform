@@ -1,5 +1,5 @@
 # LocalTransformer
-> 不要被GitHub的评定给误导，该项目的实现和js没有任何关系，虽然web文件夹中有几万行js代码...，该项目是以go语言作为服务后台，flutter框架实现前台界面，本仓库为go的后端实现，当然也打包了web前端实现，由于相较于被功能的实现，后端的代码可能100行都不到（可能仅仅1小时不到就写完了），所以重点其实也是在flutter前端实现(至少对于我这个新手而言需要蛮久的，特别是状态管理方面)
+> 不要被GitHub的评定给误导，该项目的实现和js没有任何关系，虽然web文件夹中有几万行js代码...，该项目是以go语言作为服务后台，flutter框架实现前台界面，本仓库为go的后端实现，当然也打包了web前端实现，由于相较于被功能的实现，后端的代码可能100行都不到（可能仅仅1小时不到就写完了），所以重点其实也是在flutter前端实现(至少对于我这个新手而言需要蛮久的，特别是状态管理方面，前端界面的真实仓库 -> [local_transfomer](https://github.com/ACking-you/local_transformer))
 ## 如何使用
 1. [下载压缩包](https://up.woozooo.com/mydisk.php)
 2. 解压后得到压缩文件，[压缩文件具体层级说明](https://github.com/ACking-you/go-transform/releases/tag/1.0)
